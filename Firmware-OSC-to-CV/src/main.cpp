@@ -7,8 +7,8 @@
 #include <WiFiUdp.h>
 
 // WiFi Access Point credentials
-const char *ap_ssid = "ESP32-OSC-to-CV";
-const char *ap_password = "12345678";
+const char *ap_ssid = "OSC-to-CV";
+const char *ap_password = "1234";
 
 // OSC settings
 WiFiUDP udp;

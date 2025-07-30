@@ -10,5 +10,7 @@ When turned on, the module creates a Wifi access point
 The sender should connect to it and send data to it on port 8000
 OSC data adresses of the 4 channels are "/cv/a","/cv/b","/cv/c","/cv/d"
 
+![OSC-to-CV proto](/image.jpeg)
+
 
 
